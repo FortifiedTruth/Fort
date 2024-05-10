@@ -3,6 +3,6 @@ import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export default function Page() {
-	return <div>discord</div>
+export default function Home() {
+	return <div>Home</div>
 }
