@@ -1,8 +1,14 @@
+import Head from 'next/head'
 import React from 'react'
 
 function about() {
 	return (
-		<div>about</div>
+		<>
+			<Head>
+				<title>Create Next App</title>
+			</Head>
+			<div>about</div>
+		</>
 	)
 }
 
