@@ -8,9 +8,9 @@ export default function Page() {
 	return (
 		<>
 			<Head>
-				<title>Create Next App</title>
+				<title>LMS</title>
 			</Head>
-			<div>lms</div>
+			<div>Page in Construction!</div>
 		</>
 	)
 }
