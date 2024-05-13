@@ -10,7 +10,7 @@ export default function Page() {
 			<Head>
 				<title>Create Next App</title>
 			</Head>
-			<div>twitter</div>
+			<div className='text-red-900'>twitter</div>
 		</>
 	)
 }

@@ -4,8 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <title>Create Next App</title>
-        <link rel='icon' href='/favicon.ico'/>
+<link rel='icon' href='/favicon.ico'/>
       </Head>
       <body>
         <Main />
